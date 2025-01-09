@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nelie-Taylor
-- 📫 How to reach me nghi@huongda.com
+- 📫 How to reach me nghihuongda@gmail.com
 
 <!---
 Nelie-Taylor/Nelie-Taylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
